@@ -1,0 +1,23 @@
+
+label {
+    font-size: -1.3rem;
+    color: #9e9e9e;
+}
+
+.custom-select-sm {
+    height: calc(1.8125rem + 2px);
+    padding-top: .375rem;
+    padding-bottom: .375rem;
+     font-size: 99%;
+}
+input:not([type]), input[type=text], input[type=password], input[type=email], input[type=url], input[type=time], input[type=date], input[type=datetime], input[type=datetime-local], input[type=tel], input[type=number], input[type=search], textarea.materialize-textarea {
+    background-color: white;
+}
+
+#scroll-table:hover{
+    cursor: pointer;
+}
+#scroll-graphs:hover{
+    cursor: pointer;
+}
+
